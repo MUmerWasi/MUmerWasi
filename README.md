@@ -22,6 +22,18 @@
 <h3 align="left">📊 Working On </h3>
 
 <p align="center">
+   <a href="https://dynamics.microsoft.com/en-us/dynamics365/">
+    <img src="https://svg.bookmark.style/api?url=https://dynamics.microsoft.com/en-us/dynamics365/&mode=light&style=horizontal" alt="Dynamics 365">
+  </a>
+  <a href="https://powerapps.microsoft.com/">
+    <img src="https://svg.bookmark.style/api?url=https://powerapps.microsoft.com/&mode=dark&style=horizontal" alt="PowerApps">
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://svg.bookmark.style/api?url=https://dotnet.microsoft.com/&mode=light&style=horizontal" alt=".NET">
+  </a>
+  <a href="https://angular.io/">
+    <img src="https://svg.bookmark.style/api?url=https://angular.io/&mode=dark&style=horizontal" alt="Angular">
+  </a>
   <a href="https://reactjs.org">
     <img src="https://svg.bookmark.style/api?url=https://reactjs.org&mode=light&style=horizontal" alt="React">
   </a>
